@@ -1,15 +1,6 @@
 {
   "schema": 1,
   "channels": {
-    "sergo": {
-      "sha256": "a037f96c9b76f2597bedb948deef68afe619d6559c924e8ecce318f8a06e0a8f",
-      "asset": "WebWhiteVPN_Sergo.apk",
-      "tag": "v2.2.0",
-      "minimum_build": 0,
-      "version": "2.2.0",
-      "size": 141284450,
-      "build": 8
-    },
     "android": {
       "sha256": "c6249beefbb45382157192c723e8adda3d9a8af6c71127eee239ef5c42a82909",
       "asset": "WebWhiteVPN.apk",
