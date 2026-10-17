@@ -2,13 +2,13 @@
   "schema": 1,
   "channels": {
     "android": {
-      "sha256": "daf5b36207c1928b262a137ab82ba4bdc0f84c0514745ceeffa8d51d700cab61",
+      "sha256": "2b779058371dc4397e8bf5cebf23b07101d41326180d8c8cb094dd9ed8c55a6e",
       "asset": "WebWhiteVPN.apk",
       "tag": "v2.2.0",
       "minimum_build": 0,
       "version": "2.2.0",
-      "size": 39067750,
-      "build": 9
+      "size": 39067926,
+      "build": 11
     },
     "windows": {
       "sha256": "75638f453d7d48ff93c82d0f00939b173641fdbb4586dec5c79bae119c64e61e",
