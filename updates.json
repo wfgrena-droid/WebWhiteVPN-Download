@@ -2,13 +2,13 @@
   "schema": 1,
   "channels": {
     "windows": {
-      "version": "2.3.2",
-      "build": 14,
+      "version": "2.3.3",
+      "build": 15,
       "minimum_build": 0,
-      "tag": "v2.3.2",
+      "tag": "v2.3.3",
       "asset": "WebWhiteVPN_Setup.exe",
-      "sha256": "f2c811da3f917da8096f6d37ee6ffb9ee10851b8ac64d93eb2d4f9b709ddc0eb",
-      "size": 30464119
+      "sha256": "03919889979ea861744e57bab66d65412dfd32a32087299c7efbc90e3a5d35ae",
+      "size": 30472916
     },
     "android": {
       "version": "2.3.1",
