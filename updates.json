@@ -2,22 +2,22 @@
   "schema": 1,
   "channels": {
     "windows": {
-      "version": "2.3.6",
-      "build": 18,
+      "version": "2.3.7",
+      "build": 19,
       "minimum_build": 0,
-      "tag": "v2.3.6",
+      "tag": "v2.3.7",
       "asset": "WebWhiteVPN_Setup.exe",
-      "sha256": "247a43ff80c1861088d5277222469e442c04b8289d49eb1f18b8d3c094356857",
-      "size": 30479095
+      "sha256": "ffc037388025faf5941b8180b2c7fb3bc8e0e129f4d2d14643f27defa78741a3",
+      "size": 30480195
     },
     "android": {
-      "version": "2.3.6",
-      "build": 18,
+      "version": "2.3.7",
+      "build": 19,
       "minimum_build": 0,
-      "tag": "v2.3.6",
+      "tag": "v2.3.7",
       "asset": "WebWhiteVPN.apk",
-      "sha256": "3c50ca6f95d07f0e5401a8a2084471d561e9d81e12272220e30bea1efa32a703",
-      "size": 39201854
+      "sha256": "79738b00946b9d210a09a621c5670fa64aaa2599128b000e2ba8430bfe848e94",
+      "size": 39209706
     }
   }
 }
