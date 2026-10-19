@@ -2,7 +2,7 @@
 
 VPN-приложение для **Windows и Android**, разработанное для подключения к WebWhite VPN. Добавьте персональную подписку, выберите сервер и включите VPN.
 
-## Скачать актуальные версии — Windows v2.3.3 / Android v2.3.1
+## Скачать актуальные версии — Windows v2.3.4 / Android v2.3.1
 
 - [Android — WebWhiteVPN.apk](https://github.com/wfgrena-droid/WebWhiteVPN-Download/releases/latest/download/WebWhiteVPN.apk) · Android 7.0 и новее, arm64.
 - [Windows — WebWhiteVPN_Setup.exe](https://github.com/wfgrena-droid/WebWhiteVPN-Download/releases/latest/download/WebWhiteVPN_Setup.exe) · Windows x64.
@@ -77,3 +77,5 @@ VPN-приложение для **Windows и Android**, разработанно
 В Windows v2.3.2 исправлено закрытие приложения при обновлении: установщик завершает его вместе со значком в трее штатной командой выхода и ждёт освобождения файлов. Android остаётся на v2.3.1.
 
 В Windows v2.3.3 приложение запускается в умеренном окне по центру экрана с учётом масштаба Windows. Окно можно развернуть стандартной кнопкой и вернуть к начальному размеру.
+
+В Windows v2.3.4 главная адаптируется к высоте окна: в обычном компактном окне одновременно видны кнопка, статус, пинг, подписка и выбранный сервер. На очень маленькой высоте прокрутка остаётся доступной.
