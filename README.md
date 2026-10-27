@@ -1,3 +1,9 @@
+## Android v2.3.12 — актуальная версия
+
+Исправления проверки пинга и автоматического переключения. Основной APK поддерживает ARM32, ARM64 и x86_64. Windows остаётся v2.3.10.
+
+[Скачать Android](https://github.com/wfgrena-droid/WebWhiteVPN-Download/releases/download/v2.3.12/WebWhiteVPN.apk) · [Список изменений](https://github.com/wfgrena-droid/WebWhiteVPN-Download/releases/tag/v2.3.12)
+
 # WebWhite VPN
 
 VPN-приложение для **Windows и Android**. Добавьте персональную HTTPS URL-подписку или совместимый VLESS-ключ, выберите сервер и подключитесь.
