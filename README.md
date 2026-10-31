@@ -1,3 +1,7 @@
+## Android v2.4.2 — исправление подписок (сборка 30)
+
+[Скачать Android](https://github.com/wfgrena-droid/WebWhiteVPN-Download/releases/latest/download/WebWhiteVPN.apk) · [Варианты под устройства и изменения](https://github.com/wfgrena-droid/WebWhiteVPN-Download/releases/tag/v2.4.2-build30)
+
 # WebWhite VPN v2.4.2 — Windows и Android
 
 [Windows](https://github.com/wfgrena-droid/WebWhiteVPN-Download/releases/download/v2.4.2/WebWhiteVPN_Setup.exe) · [Android — универсальный APK](https://github.com/wfgrena-droid/WebWhiteVPN-Download/releases/download/v2.4.2/WebWhiteVPN.apk) · [Все версии под устройства и список изменений](https://github.com/wfgrena-droid/WebWhiteVPN-Download/releases/tag/v2.4.2)
