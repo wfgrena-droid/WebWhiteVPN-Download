@@ -1,3 +1,15 @@
+# 📺 WebWhite VPN TV v1.0.0
+
+[Скачать для Android TV / Google TV — универсальный APK](https://github.com/wfgrena-droid/WebWhiteVPN-Download/releases/download/v1.0.0-build15/WebWhiteVPN-TV.apk) · [Релиз и список изменений](https://github.com/wfgrena-droid/WebWhiteVPN-Download/releases/tag/v1.0.0-build15)
+
+Для поддерживаемых телевизоров и приставок с Android 7+. Универсальная сборка ARM32 / ARM64 / x86_64, около 107 МБ.
+
+**Установка прямо с телевизора:** введите в адресной строке браузера **[clck.ee/wwvpntv](https://clck.ee/wwvpntv)** и нажмите «Скачать для телевизора».
+
+[FAQ и инструкция](https://104.253.79.5:9443/assets/tv/faq.html). Обновления устанавливайте поверх старой версии — подписки и настройки сохраняются.
+
+---
+
 ## Android v2.4.2 — исправление подписок (сборка 30)
 
 [Скачать Android](https://github.com/wfgrena-droid/WebWhiteVPN-Download/releases/latest/download/WebWhiteVPN.apk) · [Варианты под устройства и изменения](https://github.com/wfgrena-droid/WebWhiteVPN-Download/releases/tag/v2.4.2-build30)
