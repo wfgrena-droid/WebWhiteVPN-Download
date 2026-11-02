@@ -4,7 +4,7 @@
 | --- | --- | --- |
 | 🖥 Windows | [Установщик](https://github.com/wfgrena-droid/WebWhiteVPN-Download/releases/latest/download/WebWhiteVPN_Setup.exe) | v2.4.2 |
 | 📱 Android-телефон / планшет | [Универсальный APK](https://github.com/wfgrena-droid/WebWhiteVPN-Download/releases/latest/download/WebWhiteVPN.apk) | v2.4.2 |
-| 📺 Android TV / Google TV | [Универсальный APK](https://github.com/wfgrena-droid/WebWhiteVPN-Download/releases/download/v1.0.0-build15/WebWhiteVPN-TV.apk) · [Релиз TV](https://github.com/wfgrena-droid/WebWhiteVPN-Download/releases/tag/v1.0.0-build15) | v1.0.0 |
+| 📺 Android TV / Google TV | [Универсальный APK](https://github.com/wfgrena-droid/WebWhiteVPN-Download/releases/download/v2.0.0-build20/WebWhiteVPN-TV.apk) · [Релиз TV](https://github.com/wfgrena-droid/WebWhiteVPN-Download/releases/tag/v2.0.0-build20) | v2.0.0 |
 
 Это отдельные приложения для своих устройств. Устанавливайте обновления поверх старой версии, без удаления — подписки и настройки сохранятся. Возможность одновременного использования подписки определяется условиями её провайдера.
 
