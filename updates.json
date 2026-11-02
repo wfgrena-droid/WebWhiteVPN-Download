@@ -53,15 +53,15 @@
       }
     },
     "tv": {
-      "version": "1.0.4",
-      "build": 19,
+      "version": "2.0.0",
+      "build": 20,
       "minimum_build": 0,
-      "tag": "v1.0.4-build19",
+      "tag": "v2.0.0-build20",
       "asset": "WebWhiteVPN-TV.apk",
-      "sha256": "9f3ea1164273629803d7f5882d2efa583d7cfc075c245b4fa23cc77364266d2b",
-      "size": 111972048,
+      "sha256": "ac53c224292ec8a88da9fe536eec5f95f2d405af8310d709bf9530bcd52e4d98",
+      "size": 111972504,
       "release_notes": [
-        "Проверочный выпуск: функции не изменены."
+        "Обновления: информация в уведомлении VPN и повторные проверки при старте сети."
       ]
     }
   }
