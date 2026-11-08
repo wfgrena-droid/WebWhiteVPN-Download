@@ -1,3 +1,7 @@
+# WebWhite VPN v2.4.5 для Windows
+
+[Скачать Windows](https://github.com/wfgrena-droid/WebWhiteVPN-Download/releases/download/v2.4.5/WebWhiteVPN_Setup.exe) · [Android v2.4.4](https://github.com/wfgrena-droid/WebWhiteVPN-Download/releases/tag/v2.4.4)
+
 # WebWhite VPN v2.4.4 — Windows и Android
 
 [Windows](https://github.com/wfgrena-droid/WebWhiteVPN-Download/releases/download/v2.4.4/WebWhiteVPN_Setup.exe) · [Android — универсальный APK](https://github.com/wfgrena-droid/WebWhiteVPN-Download/releases/download/v2.4.4/WebWhiteVPN.apk) · [Все версии под устройства и список изменений](https://github.com/wfgrena-droid/WebWhiteVPN-Download/releases/tag/v2.4.4)
