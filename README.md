@@ -1,28 +1,16 @@
-# WebWhite VPN v2.4.5 для Windows
-
-[Скачать Windows](https://github.com/wfgrena-droid/WebWhiteVPN-Download/releases/download/v2.4.5/WebWhiteVPN_Setup.exe) · [Android v2.4.4](https://github.com/wfgrena-droid/WebWhiteVPN-Download/releases/tag/v2.4.4)
-
-# WebWhite VPN v2.4.4 — Windows и Android
-
-[Windows](https://github.com/wfgrena-droid/WebWhiteVPN-Download/releases/download/v2.4.4/WebWhiteVPN_Setup.exe) · [Android — универсальный APK](https://github.com/wfgrena-droid/WebWhiteVPN-Download/releases/download/v2.4.4/WebWhiteVPN.apk) · [Все версии под устройства и список изменений](https://github.com/wfgrena-droid/WebWhiteVPN-Download/releases/tag/v2.4.4)
-
-Устанавливайте поверх текущей версии. Android: ARM32, ARM64, x86_64. Приложение v2.4.4 выбирает обновление под архитектуру автоматически.
-
-# WebWhite VPN v2.4.3 — Windows и Android
-
-[Windows](https://github.com/wfgrena-droid/WebWhiteVPN-Download/releases/download/v2.4.3/WebWhiteVPN_Setup.exe) · [Android — универсальный APK](https://github.com/wfgrena-droid/WebWhiteVPN-Download/releases/download/v2.4.3/WebWhiteVPN.apk) · [Все версии под устройства и список изменений](https://github.com/wfgrena-droid/WebWhiteVPN-Download/releases/tag/v2.4.3)
-
-Устанавливайте поверх текущей версии. Android: ARM32, ARM64, x86_64. Приложение v2.4.3 выбирает обновление под архитектуру автоматически.
-
 # WebWhite VPN — Windows, Android и TV
 
 | Устройство | Скачать | Версия |
 | --- | --- | --- |
-| 🖥 Windows | [Установщик](https://github.com/wfgrena-droid/WebWhiteVPN-Download/releases/latest/download/WebWhiteVPN_Setup.exe) | v2.4.2 |
-| 📱 Android-телефон / планшет | [Универсальный APK](https://github.com/wfgrena-droid/WebWhiteVPN-Download/releases/latest/download/WebWhiteVPN.apk) | v2.4.2 |
-| 📺 Android TV / Google TV | [Универсальный APK](https://github.com/wfgrena-droid/WebWhiteVPN-Download/releases/download/v2.0.0-build20/WebWhiteVPN-TV.apk) · [Релиз TV](https://github.com/wfgrena-droid/WebWhiteVPN-Download/releases/tag/v2.0.0-build20) | v2.0.0 |
+| 🖥 Windows | [Установщик](https://github.com/wfgrena-droid/WebWhiteVPN-Download/releases/latest/download/WebWhiteVPN_Setup.exe) | v2.4.6 |
+| 📱 Android-телефон / планшет | [Универсальный APK](https://github.com/wfgrena-droid/WebWhiteVPN-Download/releases/latest/download/WebWhiteVPN.apk) | v2.4.6 |
+| 📺 Android TV / Google TV | [Универсальный APK](https://github.com/wfgrena-droid/WebWhiteVPN-Download/releases/download/v2.0.4-build24/WebWhiteVPN-TV.apk) · [Релиз TV](https://github.com/wfgrena-droid/WebWhiteVPN-Download/releases/tag/v2.0.4-build24) | v2.0.4 |
 
 Это отдельные приложения для своих устройств. Устанавливайте обновления поверх старой версии, без удаления — подписки и настройки сохранятся. Возможность одновременного использования подписки определяется условиями её провайдера.
+
+## Что нового
+
+Автообновление подписок, история изменений и новые серверы. На Android — «Защита от отключений». На TV — обновлённый автозапуск и уведомления. [Полный список изменений](https://github.com/wfgrena-droid/WebWhiteVPN-Download/releases/tag/v2.4.6).
 
 ## 📺 Как начать на телевизоре
 
@@ -36,8 +24,8 @@
 - **☁ Облако у подписки** — обновить список серверов и настройки подписки.
 - **⚡ Молния** — проверить пинг: у подписки — её серверы, на главном экране — выбранный сервер.
 - **🗑 Корзина** — удалить подписку только с телевизора, с подтверждением. Покупку у провайдера это не отменяет.
-- **«Настройки → Автозапуск при включении/перезапуске TV»** — включать VPN в фоне после запуска телевизора. Сначала подключите VPN вручную один раз. После ручного отключения автоматическое восстановление возобновится при следующем ручном подключении. Работа зависит от прошивки TV.
-- **«Настройки → Обновления приложения»** — проверить новую версию. При работающем VPN приложение также проверяет обновления в фоне и может показать уведомление. Установку подтверждает пользователь.
+- **«Настройки → Автозапуск при включении/перезапуске TV»** — включать VPN в фоне после запуска телевизора. Сначала подключите VPN вручную один раз. Ручное отключение действует до конца текущего сеанса. После перезагрузки включённый тумблер снова запускает VPN; выключите его, если автозапуск не нужен. Работа зависит от прошивки TV.
+- **«Настройки → Обновления приложения»** — проверить новую версию. Фоновая проверка обновлений работает независимо от VPN, когда это разрешает прошивка; доступность уведомлений зависит от системы. Установку подтверждает пользователь.
 
 Если текущий сервер перестаёт работать, приложение пытается переключиться на другой доступный сервер. Если недоступны все, автоматическое переключение не поможет.
 
